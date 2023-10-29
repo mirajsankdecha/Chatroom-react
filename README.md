@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="chatroom-react-seven.vercel.app" target="_blank">
+  <a href="https://chatroom-react-seven.vercel.app/" target="_blank">
     <img src="https://github.com/mirajsankdecha/Chatroom-react/blob/main/Chat/public/logo.png" alt="Chatroom" width="300">
   </a>
   <br>
@@ -31,7 +31,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-## :arrow_right: **Live App Demo** : [chatroom-react-seven.vercel.app](chatroom-react-seven.vercel.app)
+## :arrow_right: **Live App Demo** : [https://chatroom-react-seven.vercel.app/](https://chatroom-react-seven.vercel.app/)
 
 ## :pencil: Introduction
 
