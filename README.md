@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="your live app link here" target="_blank">
-    <img src="your logo or image link here" alt="Chatroom" width="300">
+  <a href="chatroom-react-seven.vercel.app" target="_blank">
+    <img src=https://github.com/mirajsankdecha/Chatroom-react/blob/main/Chat/public/logo.png" alt="Chatroom" width="300">
   </a>
   <br>
   Chatroom
@@ -23,7 +23,6 @@
 
 ---
 
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -33,7 +32,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-## :arrow_right: **Live App Demo** : [Your live app link here](your live app link here)
+## :arrow_right: **Live App Demo** : [chatroom-react-seven.vercel.app](chatroom-react-seven.vercel.app)
 
 ## :pencil: Introduction
 
@@ -63,7 +62,7 @@ Developed with a vision to facilitate seamless communication, "Chatroom" aims to
 
 - **Developer:** Miraj Sankdecha
 - **Mobile:** +91 8511411930
-- **Email:** sankdechamiraj@gmail.com
+- **Email:** mirajsankdecha@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/mirajsankdecha/
 - **X:** https://x.com/mirajsankdecha
 
@@ -78,17 +77,47 @@ Developed with a vision to facilitate seamless communication, "Chatroom" aims to
 
 To run the project locally, follow these steps:
 
-1. **Clone the Repository:** Use the following command to clone the project repository to your local machine:
+1. **Clone the Repository:**
+   - Use the following command to clone the project repository to your local machine:
+     ```bash
+     git clone https://github.com/mirajsankdecha/Chatroom-react.git
+     ```
 
-   ```bash
-   git clone https://github.com/your-username/chatroom.git
+2. **For Client:**
+   - Navigate to the client directory:
+     ```bash
+     cd Chatroom-react/chat
+     ```
+   - Install the necessary dependencies:
+     ```bash
+     npm install
+     ```
+   - Start the application:
+     ```bash
+     npm start
+     ```
+
+3. **For Server:**
+   - Navigate to the server directory:
+     ```bash
+     cd Chatroom-react/server
+     ```
+   - Install the required dependencies:
+     ```bash
+     npm install
+     ```
+   - Start the server:
+     ```bash
+     npm start
+     ```
+     
 ## :man_astronaut: Show your support
 
 Give a ⭐️ if this project helped you!
 
 ## :page_facing_up: License
 
-MIT/Massachusetts Institute of Technology(here [LICENSE](https://github.com/mirajsankdecha/Caresure-Health-Insurance/blob/development/LICENSE))
+MIT/Massachusetts Institute of Technology(here [LICENSE](https://github.com/mirajsankdecha/Chatroom-react/blob/main/LICENSE))
 
 The Caresure Health Insurance code is licensed by Massachusetts Institute of Technology.
 
