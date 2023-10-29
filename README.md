@@ -23,6 +23,16 @@
 
 ---
 
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
 ## :arrow_right: **Live App Demo** : [Your live app link here](your live app link here)
 
 ## :pencil: Introduction
@@ -44,16 +54,18 @@ Developed with a vision to facilitate seamless communication, "Chatroom" aims to
 ### :computer: Development Environment
 
 - **Front-End Tools:** Visual Studio Code (VS Code)
-- **Operating System:** (Your OS Name)
+- **Back-End Tools:** Command Prompt
+- **Operating System:** Windows 11
 - **API Integration:** Socket.IO
 - **Debugging Tools:** Chrome Development Tools
 
 ### :man_technologist: Developer Information
 
-- **Developer:** (Your Name)
-- **Email:** (Your Email)
-- **LinkedIn:** (Your LinkedIn Profile Link)
-- **GitHub:** (Your GitHub Profile Link)
+- **Developer:** Miraj Sankdecha
+- **Mobile:** +91 8511411930
+- **Email:** sankdechamiraj@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mirajsankdecha/
+- **X:** https://x.com/mirajsankdecha
 
 ## :rocket: Features
 
@@ -70,3 +82,14 @@ To run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/chatroom.git
+## :man_astronaut: Show your support
+
+Give a ⭐️ if this project helped you!
+
+## :page_facing_up: License
+
+MIT/Massachusetts Institute of Technology(here [LICENSE](https://github.com/mirajsankdecha/Caresure-Health-Insurance/blob/development/LICENSE))
+
+The Caresure Health Insurance code is licensed by Massachusetts Institute of Technology.
+
+By contributing to Caresure Health Insurance, you will be agreeing that your contributions will be licensed under its Massachusetts Institute of Technology(MIT).
