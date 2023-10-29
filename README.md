@@ -1,9 +1,8 @@
 <h1 align="center">
   <a href="chatroom-react-seven.vercel.app" target="_blank">
-    <img src=https://github.com/mirajsankdecha/Chatroom-react/blob/main/Chat/public/logo.png" alt="Chatroom" width="300">
+    <img src="https://github.com/mirajsankdecha/Chatroom-react/blob/main/Chat/public/logo.png" alt="Chatroom" width="300">
   </a>
   <br>
-  Chatroom
 </h1>
 
 <p align="center">
